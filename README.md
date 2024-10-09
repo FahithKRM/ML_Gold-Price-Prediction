@@ -1,5 +1,7 @@
 # Gold Price Prediction Model
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project predicts gold prices using a Random Forest Regressor. It also provides a simple web interface for visualization using **Streamlit**.
 
 ## Features
@@ -74,4 +76,4 @@ The model used is a **Random Forest Regressor**, and the R2 score for model perf
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
