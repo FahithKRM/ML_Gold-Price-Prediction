@@ -26,7 +26,7 @@ This project predicts gold prices using a Random Forest Regressor. It also provi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/gold-price-prediction.git
+    git clone https://github.com/FahithKRM/ML_Gold-Price-Prediction.git
     ```
     ```bash
     cd gold-price-prediction
